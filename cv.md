@@ -35,10 +35,10 @@ visit several countries, move to live in Spain.
 
 #### Courses:
 
-- IT-incubator (https://it-incubator.by/)
-- [Freecodecamp] (https://www.freecodecamp.org/dahadyaga)
-- [javascript] (https://learn.javascript.ru/)
-- [CodeWARS] (https://www.codewars.com/users/dahadyaga)
+- [IT-incubator](https://it-incubator.by/)
+- [Freecodecamp](https://www.freecodecamp.org/dahadyaga)
+- [javascript](https://learn.javascript.ru/)
+- [CodeWARS](https://www.codewars.com/users/dahadyaga)
 
 #### Work experience: 
 I have no experience in programming, but I have a lot of life experience and a desire for new technologies and knowledge.
