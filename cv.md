@@ -32,3 +32,18 @@ visit several countries, move to live in Spain.
 #### Progect:
 
 - [My GIT Push ME](https://github.com/DAhood1991)
+
+#### Courses:
+
+- IT-incubator (https://it-incubator.by/)
+- [Freecodecamp] (https://www.freecodecamp.org/dahadyaga)
+- [javascript] (https://learn.javascript.ru/)
+- [CodeWARS] (https://www.codewars.com/users/dahadyaga)
+
+#### Work experience: 
+I have no experience in programming, but I have a lot of life experience and a desire for new technologies and knowledge.
+
+#### Language:
+- English(Base)
+- Russian
+- Belarusian(Base)
