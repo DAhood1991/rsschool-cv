@@ -29,6 +29,15 @@ visit several countries, move to live in Spain.
 - Git(Base)
 - Git Hub(Base)
 
+#### Code: 
+function even_or_odd(number) {
+      if(number % 2 == 0){
+        return "Even";
+      }else{
+        return "Odd";
+      }
+}
+
 #### Progect:
 
 - [My GIT Push ME](https://github.com/DAhood1991)
